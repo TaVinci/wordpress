@@ -1,0 +1,2 @@
+[11-May-2014 21:11:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aitravel/public_html/wp-content/themes/tourpackage-v1-01/include/gallery-option.php:3) in /home/aitravel/public_html/wp-includes/pluggable.php on line 1121
+[11-May-2014 21:16:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aitravel/public_html/wp-content/themes/tourpackage-v1-01/include/gallery-option.php:3) in /home/aitravel/public_html/wp-includes/pluggable.php on line 1121

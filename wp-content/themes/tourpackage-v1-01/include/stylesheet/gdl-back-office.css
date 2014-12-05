@@ -1,0 +1,26 @@
+#portfolio-category.manage-column.column-portfolio-category {
+	width: 18%;
+}
+#testimonial-category.manage-column.column-testimonial-category {
+	width: 18%;
+}
+#price-table-category.manage-column.column-price-table-category {
+	width: 18%;
+}
+#portfolio-tags.manage-column.column-portfolio-tags {
+	width: 18%;
+}
+#author.manage-column.column-author {
+	width: 12%;
+}
+/*     custom panel */
+
+p.search-box {
+	position: relative !important;
+}
+p.search-box input[name="s"] {
+	border: 1px solid #f00;
+	-webkit-box-shadow: 0px 0px 2px 0px rgba(255, 0, 0, 1);
+	-moz-box-shadow: 0px 0px 2px 0px rgba(255, 0, 0, 1);
+	box-shadow: 0px 0px 2px 0px rgba(255, 0, 0, 1);
+}

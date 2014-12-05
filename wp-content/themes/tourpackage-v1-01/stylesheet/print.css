@@ -1,0 +1,4 @@
+div.header-wrapper, div.top-navigation-container.container, div.footer-wrapper   { display:none;}
+.row .eight {
+    width: 100%;
+}
